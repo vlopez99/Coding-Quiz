@@ -32,4 +32,3 @@ var questions = [
       answer: 'console.log',
     },
   ];
-  
